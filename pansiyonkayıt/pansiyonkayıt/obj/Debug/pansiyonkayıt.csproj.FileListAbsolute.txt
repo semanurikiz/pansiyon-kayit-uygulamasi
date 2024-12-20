@@ -1,0 +1,13 @@
+C:\Users\Asus\OneDrive\Desktop\pansiyonkayıt\pansiyonkayıt\bin\Debug\pansiyonkayıt.exe.config
+C:\Users\Asus\OneDrive\Desktop\pansiyonkayıt\pansiyonkayıt\bin\Debug\pansiyonkayıt.exe
+C:\Users\Asus\OneDrive\Desktop\pansiyonkayıt\pansiyonkayıt\bin\Debug\pansiyonkayıt.pdb
+C:\Users\Asus\OneDrive\Desktop\pansiyonkayıt\pansiyonkayıt\obj\Debug\pansiyonkayıt.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Desktop\pansiyonkayıt\pansiyonkayıt\obj\Debug\pansiyonkayıt.Form1.resources
+C:\Users\Asus\OneDrive\Desktop\pansiyonkayıt\pansiyonkayıt\obj\Debug\pansiyonkayıt.Form2.resources
+C:\Users\Asus\OneDrive\Desktop\pansiyonkayıt\pansiyonkayıt\obj\Debug\pansiyonkayıt.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Desktop\pansiyonkayıt\pansiyonkayıt\obj\Debug\pansiyonkayıt.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Desktop\pansiyonkayıt\pansiyonkayıt\obj\Debug\pansiyonkayıt.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\pansiyonkayıt\pansiyonkayıt\obj\Debug\pansiyonkayıt.exe
+C:\Users\Asus\OneDrive\Desktop\pansiyonkayıt\pansiyonkayıt\obj\Debug\pansiyonkayıt.pdb
+C:\Users\Asus\OneDrive\Desktop\pansiyonkayıt\pansiyonkayıt\obj\Debug\pansiyonkayıt.Form3.resources
+C:\Users\Asus\OneDrive\Desktop\pansiyonkayıt\pansiyonkayıt\obj\Debug\pansiyonkayıt.Form4.resources
